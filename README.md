@@ -45,7 +45,7 @@ Contributing.
 4 = Disabled
 
 License.
-All code must free of charges and open to everyone for publishing and editing without any cost, no waranty, refunds, funds due damages by this software or parts of code.
+- All code free of charges and open to everyone for publishing and editing without any cost, no waranty, refunds, funds due damages by this software or parts of code.
 
 Reporting isusues.
 - Add topic:
