@@ -1,8 +1,10 @@
 REG EDIT SERVICES
 
+Settings:
+- Power options.reg
+Helps to save disk space by disabling hybernation. + custom power plan
 
-
-Quick wiki:
+Services:
 
 - Services off:
 Colection of services with default setting of 4 aka disabled.
